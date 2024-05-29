@@ -1,2 +1,2 @@
-# Vetacre
+# Vetacare
 A project to streamline the workflow for vetenarians and clients using flutter
